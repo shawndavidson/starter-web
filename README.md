@@ -3,6 +3,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+## Contribution 
+Fork the repo and raise pull request for review
 
 ## Purpose
 
