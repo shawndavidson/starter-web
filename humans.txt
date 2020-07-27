@@ -14,4 +14,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, Bootstrap
+    jQuery, Bootstrap
+    Machine Learning, AWS, Google Cloud
