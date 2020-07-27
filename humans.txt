@@ -5,7 +5,7 @@
 
     Shawn Davidson -- CTO -- <twitter>
     sean.k.davidson@gmail.com
-    Bunsy, Founder
+    Bunsy, Founder 
 
 # THANKS
 
@@ -13,6 +13,6 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Bootstrap
-    Machine Learning, AWS, Google Cloud
+    HTML5, CSS3, Angular
+    jQuery, Modernizr, Bootstrap, AJAX
+    Docker, Java Programming, Machine Learning, AWS, Google Cloud
