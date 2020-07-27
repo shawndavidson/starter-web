@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 Fork the repo and raise pull request for review
 
 Adding GIT rebase lectures and advanced topics
+We have do so much work together:)
 
 ## Purpose
 
