@@ -14,3 +14,4 @@ We have do so much work together:)
 ## Purpose
 
 Sample website with plenty of files for demos and Texas Tea!!!
+Adding new lectures for Git Stash
